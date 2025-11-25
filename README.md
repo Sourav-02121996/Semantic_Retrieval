@@ -183,8 +183,9 @@ pytest tests/
 - Benchmarking & Evaluation: latency, recall, memory  
 - NumPy, Pandas, Matplotlib  
 - PyTest unit testing
-- 
-## Acknowledgments
+
+
+- ## Acknowledgments
 
 - [Sentence-Transformers](https://www.sbert.net/)  
 - [FAISS](https://github.com/facebookresearch/faiss)  
